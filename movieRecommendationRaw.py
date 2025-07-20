@@ -1,5 +1,4 @@
 import pandas as pd
-import matplotlib.pyplot as plt
 from warnings import filterwarnings
 filterwarnings("ignore")
 
